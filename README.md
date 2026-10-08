@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Alexander Taschuk>`
-- **CCID:** `<amtaschu>`
+- **Full Name:** `Alexander Taschuk`
+- **CCID:** `amtaschu`
 
 ## References and Resources
 
